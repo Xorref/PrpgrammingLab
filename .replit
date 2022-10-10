@@ -1,6 +1,4 @@
-run = "cowsay Configure me!"
+run = "/bin/bash"
 
 [nix]
 channel = "stable-21_11"
-
-"/bin/bash"
